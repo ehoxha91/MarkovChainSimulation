@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MarkovSimulatorHomework2", "MarkovSimulatorHomework2\MarkovSimulatorHomework2.pyproj", "{DC7F3243-20AE-4BB5-A6F2-FE1CD20D98B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7F3243-20AE-4BB5-A6F2-FE1CD20D98B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7F3243-20AE-4BB5-A6F2-FE1CD20D98B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8031D89D-3989-4D29-B114-11BE833EBAAA}
+	EndGlobalSection
+EndGlobal
